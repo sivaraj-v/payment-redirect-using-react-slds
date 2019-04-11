@@ -1,2 +1,4 @@
-# payment-redirect-using-react-slds
-Payment-redirect-using-react-slds
+
+# Salesforce payement redirect
+
+This the module used to save information to DB after trascation, followed by redirection.
