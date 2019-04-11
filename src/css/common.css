@@ -1,0 +1,12 @@
+.loader-center{
+  position: relative;
+  height: 100vh;
+}
+.loader-text {
+  width: 200px;
+  position: absolute;
+  left: 50%;
+  margin-left: -45px;
+  top: 55%;
+  z-index: 9051;
+}

@@ -1,0 +1,21 @@
+/*
+.settingIcon {
+    background-image: url('./../img/mario.png');
+    background-repeat: no-repeat;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+} */
+
+.full-width-datepicker .slds-dropdown-trigger {
+    width: 100% !important;
+}
+
+.word-break {
+    word-wrap: break-word !important;
+}
+
+body {
+    font-size: .8125rem;
+    background: #f7fbf8;
+}
